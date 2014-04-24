@@ -1,6 +1,6 @@
 Agresja-materia-y
 =================
-## AGRESJA - mteriały dla nauczycieli i rodziców
+## AGRESJA - materiały dla nauczycieli i rodziców
 
 ![Agresja] (http://pedagogika-psychologia.blog.pl/files/2013/04/stop-przemocy-w-szkole.jpg)
 
